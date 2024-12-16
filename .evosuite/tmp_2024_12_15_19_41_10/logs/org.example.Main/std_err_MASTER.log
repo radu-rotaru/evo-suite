@@ -1,0 +1,5 @@
+[MASTER] 19:45:12.753 [main] ERROR ExternalProcessHandler - Class org.example.Main. Clients have not finished yet, although a timeout occurred.
+ClientNode: INITIALIZATION
+
+[MASTER] 19:45:12.864 [main] ERROR SearchStatistics - No statistics has been saved because EvoSuite failed to generate any test case
+[MASTER] 19:45:12.965 [main] ERROR TestGeneration - failed to write statistics data
