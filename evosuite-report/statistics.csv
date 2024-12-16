@@ -1,0 +1,14 @@
+TARGET_CLASS,criterion,Coverage,Total_Goals,Covered_Goals
+org.example.evosuite.Calculator,LINE,1.0,8,8
+org.example.evosuite.Calculator,LINE,1.0,34,34
+org.example.evosuite.Calculator,BRANCH,1.0,28,28
+org.example.evosuite.Calculator,BRANCH,1.0,28,28
+org.example.evosuite.Calculator,LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH,0.8023750824601286,408,338
+org.example.evosuite.Calculator,LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH,0.7384124734231041,408,322
+org.example.evosuite.Calculator,MUTATION,0.7047475616752725,249,182
+org.example.evosuite.Calculator,EXCEPTION,0.0,0,0
+org.example.evosuite.Calculator,EXCEPTION,0.0,0,0
+org.example.evosuite.Calculator,LINE,1.0,34,34
+org.example.evosuite.Calculator,METHOD,1.0,15,15
+org.example.evosuite.Calculator,CBRANCH,0.8571428571428571,28,28
+org.example.evosuite.Calculator,METHODNOEXCEPTION,1.0,15,15

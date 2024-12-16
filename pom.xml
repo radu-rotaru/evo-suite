@@ -36,10 +36,6 @@
                         <goals> <goal> prepare </goal> </goals>
                         <phase> process-test-classes </phase>
                     </execution></executions>
-
-                    <configuration>
-                        <mutationTesting>true</mutationTesting>
-                    </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
